@@ -1,7 +1,7 @@
 # Proyecto Terraform
 
 ## Descripción
-Breve descripción de tu infraestructura
+Despliegue de una instancia EC2 en AWS
 
 ## Requisitos
 - Terraform v1.x
